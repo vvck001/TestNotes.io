@@ -2,17 +2,17 @@
 layout: page
 title: About
 description: 打码改变世界
-keywords: Zhuang Ma, 马壮
+keywords: Jing Wang, 王晶
 comments: true
 menu: 关于
 permalink: /about/
 ---
 
-我是马壮，码而生，码而立。
+我是王晶，体验测试之美。
 
-仰慕「优雅编码的艺术」。
+仰慕「测试之美」。
 
-坚信熟能生巧，努力改变人生。
+理论纸上谈，测试靠实践。
 
 ## 联系
 

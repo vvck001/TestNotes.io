@@ -5,7 +5,7 @@ baseurl:
 url: https://setvaildtest.github.io/TestNotes.io/
 date_format: "ordinal"
 title: TestNotes
-subtitle: "测试道路慢慢长"
+subtitle: "测试道路慢慢"
 description: "王晶的个人博客"
 keywords: 码志, Zhuang Ma, mzlogin, mazhuang
 timezone: Asia/Shanghai
@@ -38,7 +38,7 @@ navs:
 #     href: /archives/
 #     label: 归档
 
-  -
+#   -
 #    href: /wiki/
 #    label: 维基
 
