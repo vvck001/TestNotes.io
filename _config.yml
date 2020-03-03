@@ -2,11 +2,11 @@
 #   Main Configs   #
 # ---------------- #
 baseurl:
-url: https://mazhuang.org
+url: https://setvaildtest.github.io/TestNotes.io/
 date_format: "ordinal"
-title: 码志
-subtitle: "打码改变人生"
-description: "马壮的个人博客"
+title: TestNotes
+subtitle: "测试道路慢慢长"
+description: "王晶的个人博客"
 keywords: 码志, Zhuang Ma, mzlogin, mazhuang
 timezone: Asia/Shanghai
 encoding: "utf-8"
@@ -15,12 +15,12 @@ side_bar_repo_limit: 5
 # ---------------- #
 #      Author      #
 # ---------------- #
-author: Zhuang Ma
+author: Jing Wang
 organization: 
 organization_url: 
-github_username: mzlogin
-location: Wuhan, China
-email: chumpma@gmail.com
+github_username: setvaildtest
+location: Chengdu, China
+email: wang-test@outlook.com
 
 # ---------------- #
 #    Navigation    #
@@ -39,8 +39,8 @@ navs:
 #     label: 归档
 
   -
-    href: /wiki/
-    label: 维基
+#    href: /wiki/
+#    label: 维基
 
   -
     href: /links/
